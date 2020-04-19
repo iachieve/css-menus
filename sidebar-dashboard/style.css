@@ -121,7 +121,7 @@ label #sidebar_btn:hover {
 
 .content {
   margin-left: 250px;
-  background: url('https://raw.githubusercontent.com/iachieve/css-menus/master/sidebar-dashboard/img/golden-gate.jpeg') no-repeat;
+  background: url(./img/golden-gate.jpeg) no-repeat;
   background-position: center;
   background-size: cover;
   height: 100vh;
