@@ -121,7 +121,7 @@ label #sidebar_btn:hover {
 
 .content {
   margin-left: 250px;
-  background: url(../assets/golden-gate.jpeg) no-repeat;
+  background: url(/assets/golden-gate.jpeg) no-repeat;
   background-position: center;
   background-size: cover;
   height: 100vh;
