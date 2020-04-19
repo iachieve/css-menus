@@ -44,7 +44,6 @@ header {
   background: #0B87A6;
 }
 
-/* sidebar */
 .sidebar {
   background: #2f323a;
   margin-top: 70px;
@@ -55,6 +54,7 @@ header {
   height: 100%;
   transition: .5s;
   transition-property: left;
+  overflow: hidden;
 }
 
 .sidebar .profile_image {
